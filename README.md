@@ -1,3 +1,19 @@
+## Programming language
+### Python
+https://www.python.org/
+
+Python is a programming language that lets you work quickly and integrate systems more effectively
+
+### R
+https://www.r-project.org/
+
+R is a free software environment for statistical computing and graphics
+
+### Julia
+https://julialang.org/
+
+The official website for the Julia Language
+
 ## IDE & Text editor
 ### Lazarus IDE
 https://www.lazarus-ide.org/ 
