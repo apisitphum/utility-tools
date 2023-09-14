@@ -45,3 +45,8 @@ DevDocs combines multiple API documentations in a fast, organized, and searchabl
 https://goalkicker.com/
 
 Programming Notes for Professionals books
+
+## Others
+https://sequelize.org/
+
+Sequelize is a modern TypeScript and Node.js ORM for Oracle, Postgres, MySQL, MariaDB, SQLite and SQL Server, and more
