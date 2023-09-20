@@ -91,3 +91,8 @@ jQuery plugin for user friendly query/filter creator
 https://knexjs.org/
 
 SQL query builder
+
+### Apache Superset
+https://superset.apache.org/
+
+Apache Superset™ is an open-source modern data exploration and visualization platform
