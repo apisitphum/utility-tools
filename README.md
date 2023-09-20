@@ -47,6 +47,47 @@ https://goalkicker.com/
 Programming Notes for Professionals books
 
 ## Others
+### sequelize
 https://sequelize.org/
 
 Sequelize is a modern TypeScript and Node.js ORM for Oracle, Postgres, MySQL, MariaDB, SQLite and SQL Server, and more
+
+### truly ui
+https://truly-ui.com/
+
+The Real Desktop Web Framework for Angular
+
+### React Photo
+https://github.com/React-Proto/react-proto
+
+React-Proto is a React application prototyping tool for developers and designers
+
+### jspreadsheets
+https://jspreadsheets.com/
+
+Best JavaScript Data Grids and Spreadsheets
+
+### Tabulator
+https://tabulator.info/
+
+Easy to use, simple to code, fully featured, interactive JavaScript tables and data grids
+
+### Grid.js
+https://gridjs.io/
+
+Grid.js is a Free and open-source JavaScript table plugin. It works with most JavaScript frameworks, including React, Angular, Vue and VanillaJs.
+
+### React Suite
+https://rsuitejs.com/
+
+A suite of React components, sensible UI design, and a friendly development experience.
+
+### jQuery Builder
+https://querybuilder.js.org/
+
+jQuery plugin for user friendly query/filter creator
+
+### Knex.js
+https://knexjs.org/
+
+SQL query builder
