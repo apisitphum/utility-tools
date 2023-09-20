@@ -101,3 +101,8 @@ Apache Superset™ is an open-source modern data exploration and visualization p
 https://redash.io/
 
 Redash is designed for teams to collaborate on data analysis
+
+### planet scale
+https://planetscale.com/
+
+the world’s most advanced MySQL platform
