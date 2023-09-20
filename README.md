@@ -96,3 +96,8 @@ SQL query builder
 https://superset.apache.org/
 
 Apache Superset™ is an open-source modern data exploration and visualization platform
+
+### Redash
+https://redash.io/
+
+Redash is designed for teams to collaborate on data analysis
